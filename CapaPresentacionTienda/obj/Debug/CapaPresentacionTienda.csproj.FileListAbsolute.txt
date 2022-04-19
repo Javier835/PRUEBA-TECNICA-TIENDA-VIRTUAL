@@ -1,0 +1,276 @@
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.rsp
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.rsp
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.AppContext.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Console.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Globalization.Calendars.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Http.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Sockets.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.ValueTuple.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XmlDocument.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\WebGrease.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.AppContext.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Console.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Http.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.ValueTuple.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.AppContext.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Console.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Http.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.ValueTuple.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\TiendaVirtual\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb

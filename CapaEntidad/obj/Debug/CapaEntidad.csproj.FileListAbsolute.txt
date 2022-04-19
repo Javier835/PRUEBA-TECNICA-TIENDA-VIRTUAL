@@ -1,0 +1,12 @@
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaEntidad\obj\Debug\CapaEntidad.pdb

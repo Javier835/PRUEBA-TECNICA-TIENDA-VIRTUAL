@@ -1,0 +1,22 @@
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaEntidad.pdb
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Javier\Desktop\REPOSITORIO MARDOM\REPOSITORIO MARDOM\TiendaVirtual\CapaNegocio\obj\Debug\CapaNegocio.pdb
